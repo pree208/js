@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Preethi",
+    "company": "123 designs",
+    "phone": "444-555-6666"
+  },
+  {
+    "id": 2,
+    "name": "Priya",
+    "company": "456 designs",
+    "phone": "444-555-6666"
+  },
+  {
+    "id": 3,
+    "name": "Saran",
+    "company": "789 designs",
+    "phone": "444-555-6666"
+  }
+]
